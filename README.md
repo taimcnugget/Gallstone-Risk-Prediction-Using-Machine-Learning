@@ -27,7 +27,7 @@ This project compares a traditional linear classifier with a non-linear ensemble
 - Avoid overfitting and unnecessary model complexity
 
 ## Dataset
-The original data was collected by Esen, I., Arslan, H., Aktürk, S., Gülşen, M., Kültekin, N., & Özdemir, O. (2024). Gallstone [Dataset]. UCI Machine Learning Repository. https://doi.org/10.1097/md.0000000000037258.
+The original data was collected by Esen, I., Arslan, H., Aktürk, S., Gülşen, M., Kültekin, N., & Özdemir, O. (2024). Gallstone [Dataset]. UCI Machine Learning Repository.[3](https://doi.org/10.1097/md.0000000000037258).
 
 The dataset consists of patient-level features including:
 
