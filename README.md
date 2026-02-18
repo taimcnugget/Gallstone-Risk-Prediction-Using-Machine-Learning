@@ -27,7 +27,7 @@ This project compares a traditional linear classifier with a non-linear ensemble
 - Avoid overfitting and unnecessary model complexity
 
 ## Dataset
-The original data was collected by Esen, I., Arslan, H., Aktürk, S., Gülşen, M., Kültekin, N., & Özdemir, O. (2024).[3] and accessed via  UCI Machine Learning Repository.
+The original data was collected by Esen, I., Arslan, H., Aktürk, S., Gülşen, M., Kültekin, N., & Özdemir, O. (2024),[3] and accessed via  UCI Machine Learning Repository.
 
 The dataset consists of patient-level features including:
 
@@ -116,4 +116,4 @@ This multi-perspective approach provides robustness when interpreting feature co
 
 [[2]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11588438/) Jiang Z, Jiang H, Zhu X, Zhao D, Su F. The relationship between high-sensitivity C-reactive protein and gallstones: a cross-sectional analysis. Front Med (Lausanne). 2024 Nov 12;11:1453129. doi: 10.3389/fmed.2024.1453129. PMID: 39600934; PMCID: PMC11588438.
 
-[3](https://doi.org/10.1097/md.0000000000037258) Esen, İrfan MD; Arslan, Hilal; Aktürk Esen, Selin MD; Gülşen, Mervenur; Kültekin, Nimet; Özdemir, Oğuzhan MD. Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data. Medicine 103(8):p e37258, February 23, 2024. | DOI: 10.1097/MD.0000000000037258 
+[[3]](https://doi.org/10.1097/md.0000000000037258) Esen, İrfan MD; Arslan, Hilal; Aktürk Esen, Selin MD; Gülşen, Mervenur; Kültekin, Nimet; Özdemir, Oğuzhan MD. Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data. Medicine 103(8):p e37258, February 23, 2024. | DOI: 10.1097/MD.0000000000037258 
