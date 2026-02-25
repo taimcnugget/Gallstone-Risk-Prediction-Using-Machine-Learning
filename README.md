@@ -111,9 +111,17 @@ This multi-perspective approach provides robustness when interpreting feature co
 - Validate model performance on an independent dataset
 - Extend analysis to temporal or longitudinal data if available
 
+## Post-analysis Questions
+- Does this small dataset represent a larger population?
+- Since this model relies on blood-based biomarkers, could non-invasive predictors (e.g., dietary habits, ethnicity, lifestyle factors [4]) be incorporated to improve accessibility in low-resource settings?
+- I wonder if disease severity influences model performance. Are misclassifications concentrated among atypical cases?
+- Lastly, which type of error is more costly? A false negative or a false positive? False positives can cause expensive follow-up tests that are not needed by the patient while false negatives can cause long-term health issues if gone unnoticed. Where to these models fit in current diagnostic methodologies?
+
 ## Literature
 [[1]](https://pubmed.ncbi.nlm.nih.gov/39261120/) Bin C, Zhang C. The association between vitamin D consumption and gallstones in US adults: A cross-sectional study from the national health and nutrition examination survey. J Formos Med Assoc. 2025 Mar;124(3):212-217. doi: 10.1016/j.jfma.2024.09.010. Epub 2024 Sep 11. PMID: 39261120.
 
 [[2]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11588438/) Jiang Z, Jiang H, Zhu X, Zhao D, Su F. The relationship between high-sensitivity C-reactive protein and gallstones: a cross-sectional analysis. Front Med (Lausanne). 2024 Nov 12;11:1453129. doi: 10.3389/fmed.2024.1453129. PMID: 39600934; PMCID: PMC11588438.
 
 [[3]](https://doi.org/10.1097/md.0000000000037258) Esen, İrfan MD; Arslan, Hilal; Aktürk Esen, Selin MD; Gülşen, Mervenur; Kültekin, Nimet; Özdemir, Oğuzhan MD. Early prediction of gallstone disease with a machine learning-based method from bioimpedance and laboratory data. Medicine 103(8):p e37258, February 23, 2024. | DOI: 10.1097/MD.0000000000037258 
+
+[[4]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5723039/) Figueiredo JC, Haiman C, Porcel J, Buxbaum J, Stram D, Tambe N, Cozen W, Wilkens L, Le Marchand L, Setiawan VW. Sex and ethnic/racial-specific risk factors for gallbladder disease. BMC Gastroenterol. 2017 Dec 8;17(1):153. doi: 10.1186/s12876-017-0678-6. PMID: 29221432; PMCID: PMC5723039.
